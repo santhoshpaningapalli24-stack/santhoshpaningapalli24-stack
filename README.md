@@ -1,16 +1,43 @@
-## Hi there 👋
+# Hi there 👋, I'm Santhosh Paningapalli
 
-<!--
-**santhoshpaningapalli24-stack/santhoshpaningapalli24-stack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I am an MCA student passionate about software development and AI.  
+💻 I enjoy building projects, learning new technologies, and solving real-world problems.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👨‍💻 About Me
+
+- 🔭 I’m currently working on projects in **machine learning**, **AI**, and **web development**
+- 🌱 I’m improving my skills in **Python**, **AWS**, and modern web technologies
+- 🎯 Goal: Become a strong software/AI engineer and build impactful applications
+- 📚 I use GitHub to practice, share my code, and track my progress
+
+---
+
+### 🛠️ Technologies & Tools
+
+- **Languages:** Python, R, Java.
+- **Database:** SQL, MongoDB.
+- **Machine Learning & AI:** scikit-learn, NLP, COMPUTER VISION, pandas, matplotlib, seaborn, numpy, Stremlit,flask.
+- **Cloud & DevOps:** AWS(EC2, IAM, VPC, S3)
+- **Web Development:** HTML, CSS, JavaScript.
+- **Tools:** Git, GitHub, VS Code, jupyter notebook, google colab, Power BI, Tablue.
+
+---
+
+### 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=santhoshpaningapalli24-stack&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=santhoshpaningapalli24-stack&layout=compact&theme=radical)
+
+---
+
+### 📫 How to reach me
+
+- Email: santhoshpaningapalli24@gmail.com
+- LinkedIn: www.linkedin.com/in/paningapalli-santhosh-a57a18234
+
+Thanks for visiting my profile! 😊
+
+update profile readme
