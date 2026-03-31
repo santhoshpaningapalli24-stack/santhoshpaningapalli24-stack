@@ -25,11 +25,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=santhoshpaningapalli24-stack&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=santhoshpaningapalli24-stack&layout=compact&theme=radical)
 
 ---
 
